@@ -1,4 +1,4 @@
-# movie-recommender-suite
+# multi-mode-movie-recommender-python
 
 A versatile movie recommendation system supporting both **content-based** and **collaborative filtering** methods.  
 This project offers three interfaces to suit your preference and workflow:  
@@ -53,8 +53,8 @@ Edit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-recommender-suite.git
-   cd movie-recommender-suite
+   git clone https://github.com/your-username/multi-mode-movie-recommender-python.git
+   cd multi-mode-movie-recommender-python
 Create and activate a virtual environment (optional but recommended):
 
 bash
