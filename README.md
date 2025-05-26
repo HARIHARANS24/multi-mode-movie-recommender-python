@@ -53,7 +53,7 @@ Edit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/multi-mode-movie-recommender-python.git
+   git clone https://github.com/HARIHARANS24/multi-mode-movie-recommender-python.git
    cd multi-mode-movie-recommender-python
 Create and activate a virtual environment (optional but recommended):
 
