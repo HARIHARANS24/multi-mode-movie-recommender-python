@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender Suite
+# 🎬 Multi-Mode-Movie-Recommender-python
 
 A versatile movie recommendation system supporting both **content-based** and **collaborative filtering** methods.  
 This project offers three interfaces to suit your preference and workflow:  
