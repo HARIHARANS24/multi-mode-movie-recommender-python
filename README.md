@@ -41,8 +41,6 @@ movie-recommender-suite/
 ├── 📂 data/                      # Data storage
 │   └── movies.csv                # Movie dataset
 │
-├── 📂 project-screenshots/       # Project documentation images
-│
 ├── 📄 cli.py                     # Command-line interface
 ├── 📄 requirements.txt           # Project dependencies
 ├── 📄 setup.py                   # Package setup configuration
