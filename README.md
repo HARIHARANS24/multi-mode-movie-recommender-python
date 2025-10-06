@@ -10,7 +10,7 @@ This project offers three interfaces to suit your preference and workflow:
 
 - 🎯 Hybrid recommendation approach combining content-based and collaborative filtering  
 - 🔄 Flexible usage with CLI, Flask, and Streamlit interfaces  
-- 🛠️ Easy to extend and customize  
+- 🛠️ Easy to extend and customize   
 - 📊 Interactive visualizations and user-friendly interfaces
 - 🎨 Modern and responsive web design
 - 🔍 Advanced search and filtering capabilities
@@ -133,3 +133,4 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 ---
 
 ⭐ Star this repository if you find it useful!
+
