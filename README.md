@@ -18,35 +18,35 @@ This project offers three interfaces to suit your preference and workflow:
 ## 📁 Project Structure
 
 ```
-movie-recommender-suite/
-│
-├── 📂 movie_recommender/           # Core recommendation engine
-│   ├── __init__.py
-│   ├── data_loader.py             # Data loading and preprocessing
-│   ├── feature_engineering.py     # Feature extraction and processing
-│   ├── content_recommender.py     # Content-based filtering implementation
-│   ├── collaborative_recommender.py # Collaborative filtering implementation
-│   └── utils.py                   # Utility functions
-│
-├── 📂 web_flask/                  # Flask web application
-│   ├── templates/                 # HTML templates
-│   ├── static/                    # CSS, JS, and static assets
-│   └── app.py                     # Flask application entry point
-│
-├── 📂 web_streamlit/             # Streamlit interactive app
-│   └── app.py                    # Streamlit application entry point
-│
-├── 📂 app/                       # Additional application components
-│
-├── 📂 data/                      # Data storage
-│   └── movies.csv                # Movie dataset
-│
-├── 📄 cli.py                     # Command-line interface
-├── 📄 requirements.txt           # Project dependencies
-├── 📄 setup.py                   # Package setup configuration
-├── 📄 run.py                     # Main execution script
-├── 📄 LICENSE.txt                # MIT License
-└── 📄 README.md                  # Project documentation
+Directory structure:
+└── hariharans24-multi-mode-movie-recommender-python/
+    ├── README.md
+    ├── gitignore.txt
+    ├── LICENSE.txt
+    ├── requirements.txt
+    ├── run.py
+    ├── run.txt
+    ├── setup.py
+    ├── app/
+    │   ├── main.py
+    │   └── __pycache__/
+    ├── data/
+    │   └── data.txt
+    ├── movie_recommender/
+    │   ├── __init__.py
+    │   ├── collaborative_recommender.py
+    │   ├── content_recommender.py
+    │   ├── data_loader.py
+    │   ├── feature_engineering.py
+    │   ├── utils.py
+    │   └── __pycache__/
+    ├── web_flask/
+    │   ├── app.py
+    │   ├── __pycache__/
+    │   └── templates/
+    │       └── index.html
+    └── web_streamlit/
+        └── app.py
 ```
 
 ## 🚀 Installation
@@ -133,6 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 ---
 
 ⭐ Star this repository if you find it useful!
+
 
 
 
